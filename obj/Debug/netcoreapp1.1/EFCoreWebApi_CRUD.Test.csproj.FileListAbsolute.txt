@@ -1,0 +1,14 @@
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.deps.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.runtimeconfig.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.runtimeconfig.dev.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.pdb
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\obj\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.csproj.CoreCompileInputs.cache
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\obj\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.AssemblyInfo.cs
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\obj\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\obj\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.Test.pdb
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.pdb
